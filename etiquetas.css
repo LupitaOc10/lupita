@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .e{
+  size:5x;
+  color:#CF379C;
+  font-family:bra
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    background: black;
+    border: 1px solid black;
+    
+  }
+  nav{
+    text-align:center;
+  
+  }
+  
+  a:hover{
+    background: beige;
+  
+  }
+  
+  .principal{
+    display:flex;
+  }
+  section{
+    width: 80%;
+    min-height: 80%;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: lemonchiffon;
+    
+    
+  }
+  aside{
+    width: 20%
+    min-height:80%;
+    background:lightsalmon;
+    border: 2px solid black;
+    margin:5px;
+    
+  }
+  
+  footer{
+    background:#DABDEF;
+    height: 1%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+    text-align:center;
+    color:white;
+  }
+  
+  article{
+    border:1 solud black;
+   width:100%;
+   min-height:20%;
+   background:lightpink;
+   margin: 5px;
+    
+  }
+  
+  
